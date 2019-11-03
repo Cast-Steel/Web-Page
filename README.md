@@ -1,4 +1,4 @@
-# Web-Page
+# WebPage
 HTML, JS, and CSS front end. 
 Flask back end.
 
