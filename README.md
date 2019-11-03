@@ -1,4 +1,5 @@
 # Web-Page
-HTML, JS, and CSS front end. Flask back end.
+HTML, JS, and CSS front end. 
+Flask back end.
 
-Turtles and tigers.
+This is my personal website's code.
